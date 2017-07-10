@@ -1,0 +1,1 @@
+# ping-scrpt-bash
