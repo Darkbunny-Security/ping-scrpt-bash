@@ -1,28 +1,21 @@
-# ping-scrpt-bash
+# pingToMe
+--------------------------------------------------------------------------
 
-Testado no Ubuntu-Gnome (Sem Bug)
+ Code by: Psychøraptør - P4nd3møn↓um
 
-==================================
+--------------------------------------------------------------------------
 
-Execute script com:
-  
-               'bash ping.sh'
-          
-               'sh ping.sh'
+ - Programa desenvolvido para Ubuntu (Por enquanto)
+ - Linguagem de programação BashScript
+ - Facil uso
+ - Prototipo de um grande codigo ;).
 
-==================================
+ - Espero que aproveite!
 
+ - Corra com: sh ping.sh
 
-==================================
+--------------------------------------------------------------------------
 
-Ações executadas:
-               
-               'Abre novo Terminal'
-               
-               'Pega ip alvo'
+ "P4nd3møn↓um, estamos sempre por perto…"
 
-               'Pinga no ip alvo'
-               
-               'Fecha Terminal'
-
-==================================
+--------------------------------------------------------------------------
