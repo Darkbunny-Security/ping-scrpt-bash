@@ -3,14 +3,14 @@
 
 PDM(){
 	echo "øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø"
-	echo "øPDMPDMPDMPDMPDMPDMPDMPDMPDMPDMPDMPDMPDMPDMPDPø"
-	echo "øPDMPDMPDMPDMPDMøøøøøøøøøøDMPDMPDMPDMPDMPDMPDPø"
-	echo "øPDMPDMPøøøøøøøø          øøøøøøøøøDMPDMPDMPDPø"
-	echo "øPDMPDMPøøøøøøøø»» PING ««øøøøøøøøøDMPDMPDMPDPø"
-	echo "øPDMPDMPøøøøøøøø          øøøøøøøøøDMPDMPDMPDPø"
-	echo "øPDMPDMPDMPDMPDMøøøøøøøøøøDMPDMPDMPDMPDMPDMPDPø"
-	echo "øPDMPDMPDMPDMPDMPDMPDMPDMPDMPDMPDMPDMPDMPDMPDPø"
-	echo "øPDMPDMPDMPDMPDMPDMPDMPDMPDMPDMPDMPDMPDMPDMPDPø"
+	echo "øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø"
+	echo "øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø"
+	echo "øøøøøøøøøøøøøøøø          øøøøøøøøøøøøøøøøøøøøø"
+	echo "øøøøøøøøøøøøøøøø»» PING ««øøøøøøøøøøøøøøøøøøøøø"
+	echo "øøøøøøøøøøøøøøøø          øøøøøøøøøøøøøøøøøøøøø"
+	echo "øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø"
+	echo "øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø"
+	echo "øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø"
 	echo "øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø"
 
 }
