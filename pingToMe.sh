@@ -1,18 +1,21 @@
 #!/bin/bash
-#Coder: Psychø
+#
+#--------------------------------
+#Coder: Psychø; Agent-2k40
+# DarkBunny
+#--------------------------------
 
 PDM(){
-	echo "øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø"
-	echo "øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø"
-	echo "øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø"
-	echo "øøøøøøøøøøøøøøøø          øøøøøøøøøøøøøøøøøøøøø"
-	echo "øøøøøøøøøøøøøøøø»» PING ««øøøøøøøøøøøøøøøøøøøøø"
-	echo "øøøøøøøøøøøøøøøø          øøøøøøøøøøøøøøøøøøøøø"
-	echo "øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø"
-	echo "øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø"
-	echo "øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø"
-	echo "øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø"
-
+	echo "============================================="
+	echo "»»»»»»»»»»»»»»»»» PingTøMe ««««««««««««««««« "
+	echo "============================================="
+	echo "                                             "
+	echo "---------------------------------------------"
+	echo " _ _                                         "
+	echo "(˘©˘) Se for ping, nós pingamos pra ti       "
+	echo "                                             "
+	echo '"DarkBunny, estamos sempre por perto."       '
+	echo "---------------------------------------------"
 }
 #øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø
 Digite_IP(){
@@ -47,18 +50,30 @@ Terminal(){
 	export PACK;
 
 	gnome-terminal -x bash -c 'PDM;\
-				Dorme; Limpa;\
-			        Digite_IP;\
-				Digite_Pack;\
+				Pula;\
+
+			    Digite_IP; Digite_Pack;\
+
 				Dorme; Pula;\
-				echo "[!] Ping em "$IP;\
+
+				echo "[+] Ping em  "$IP;\
+
 				Pula; Dorme;\
-				ping -c $PACK $IP;\
-				Dorme; Pula;\
-				echo "[!] $PACK pacotes enviado(s) para $IP";\
-				Pula; Dorme;\
-				echo "[!] Ping concluido"; Dorme; exit;\
+
+				if ping -c$PACK $IP
+				then	Dorme; Pula;
+					echo "[-] Ping concluido "
+					Dorme; Pula;
+					echo "[-] finalizando"
+					Dorme; exit;
+				else
+					Dorme; Pula;
+					echo "[!] $PACK pacotes não enviados "
+					Dorme; Pula;
+					echo "[!] Rede não encontrada "; Dorme; exit;
+				fi;\
 				exec bash'
 }
 #øøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøøø
+
 Terminal
