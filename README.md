@@ -10,8 +10,6 @@
  - Facil uso
  - Prototipo de um grande codigo ;).
 
- - Espero que aproveite!
-
  - Corra com: sh ping.sh
 
 --------------------------------------------------------------------------
