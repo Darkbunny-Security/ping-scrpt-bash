@@ -1,19 +1,14 @@
-# pingToMe
---------------------------------------------------------------------------
+  PingToMe
 
- Code by: Psychøraptør - DarkBunny
+  -----------------------------------------------
+  Coder by: CØÐ'A®C, Agent-2k40 - DarkBunny
+  -----------------------------------------------
 
---------------------------------------------------------------------------
+  - Programado para Distribuições Linux (Testado em Ubuntu)
+  - Linguagem de programação BashScript
+  - Fácil manuseio
+  - Desenvolvido pela graça de fazer um programa simples
 
- - Programa desenvolvido para Ubuntu (Por enquanto)
- - Linguagem de programação BashScript
- - Facil uso
- - Prototipo de um grande codigo ;).
-
- - Corra com: sh ping.sh
-
---------------------------------------------------------------------------
-
- "DarkBunny, estamos sempre por perto…"
-
---------------------------------------------------------------------------
+  -----------------------------------------------
+  "DarkBunny, a verdade ainda esta por vir"
+  -----------------------------------------------
